@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Robert Khataza"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Robert Khataza"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rkhatazasnapshort.png"
+  avatar           : "https://cdn.prod.website-files.com/65cbe077fc1d08b989342110/668e55e9c1014216fd41e351_300x300%20-%20Khataza.png"
   name             : "Robert Khataza"
   pronouns         : # example: "she/her"  
   bio              : "Robertson Khataza is a faculty member at the Lilongwe University of Agriculture and Natural Resources (LUANAR), in Malawi. He holds a Ph.D. in Agricultural and Resource Economics from the University of Western Australia, and an M.Sc. in Development and Resource Economics from the Norwegian University of Life Sciences, Norway."
