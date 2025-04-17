@@ -13,9 +13,9 @@ title                    : "Robert Khataza"
 title_separator          : "-"
 name                     : &name "Robert Khataza"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://drdee23.github.io/rkhataza/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "drdee23.github.io/rkhataza"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,31 +26,31 @@ author:
   name             : "Robert Khataza"
   pronouns         : # example: "she/her"  
   bio              : "Robertson Khataza is a faculty member at the Lilongwe University of Agriculture and Natural Resources (LUANAR), in Malawi. He holds a Ph.D. in Agricultural and Resource Economics from the University of Western Australia, and an M.Sc. in Development and Resource Economics from the Norwegian University of Life Sciences, Norway."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Central Region, MW"
+  employer         : "LUANAR"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rkhataza@luanar.ac.mw " 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com.au/citations?user=hF11P9YAAAAJ&hl=en"
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-7665-0857"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -213,6 +213,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  working_papers:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/

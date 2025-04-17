@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Agricultural and Resource Economics, 2018, University of Western Australia, 35 Stirling Highway, Crawley, Perth, WA6009, Australia
+* MSc in Development and Resource Economics, 2007, Norwegian University of Life Sciences (NMBU), Box 5003, N-1432 Ås, Norway.
+* BSc. in Agriculture (Agricultural Economics), 2003, University of Malawi, Bunda College, P.O. Box 219, Lilongwe, Malawi.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2011 to date. Senior Lecturer in Agricultural and Resource Economics, Lilongwe University of Agriculture & Natural Resources (Bunda Campus). Responsibilities include: teaching and conducting research in Agricultural and Resource Economics; Marketing and Agricultural Policy Analysis. Curriculum development and review; and Supervising student research.  [www.luanar.ac.mw](https://www.luanar.ac.mw/luanar/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2023-February 2024. National Lead Consultant: Evaluation of ARC impact in Malawi (Assessment of ARC Disaster insurance initiative). Oxford Policy Management/Africa Risk Capacity (ARC)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2019-May 2020 National Consultant: Developing policy briefs on gender and agricultural productivity/ Women’s land rights and policy in Malawi. UN Women
   
-Skills
+Achievements
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2011 Contributed to the study and preparation of the report on global yam situation and outlook, 2007-2030 
+* 2011 Managed to co-implement a regional study on technology adoption and impacts of crop improvement research for IITA-mandate crops in sub-Saharan Africa (maize, cowpea, soybean, cassava & yams)
+* 2011 Coordinated data collection for baseline study on Making Agricultural Innovations Work for Smallholder Farmers Affected by HIV and AIDS in Southern Africa.
+* 2011 Coordinated data collection for baseline study on Soybean Value chains for Malawi, Mozambique and Zambia
+* 2009 Managed to implement IITA project evaluation and complete a technical report on the adoption and impacts of cassava improvement in Malawi and Zambia 
+* 2010 Successfully implemented a baseline study in Malawi for one of IITA’s regional projects “Unleashing the Power of Cassava in Africa - UPoCA” 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+<br><br>
+<a href='/files/khataza_cv.pdf' class="btn">Download full Curriculum Vitae</a>
