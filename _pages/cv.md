@@ -36,4 +36,4 @@ Achievements
 
 
 <br><br>
-<a href='/files/khataza_cv.pdf' class="btn">Download full Curriculum Vitae</a>
+<a href='/rkhataza/files/khataza_cv.pdf' class="btn">Download full Curriculum Vitae</a>
