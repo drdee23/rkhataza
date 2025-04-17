@@ -35,5 +35,5 @@ Achievements
 * 2010 Successfully implemented a baseline study in Malawi for one of IITA’s regional projects “Unleashing the Power of Cassava in Africa - UPoCA” 
 
 
-<br><br>
+<br>
 <a href='/rkhataza/files/khataza_cv.pdf' class="btn">Download full Curriculum Vitae</a>
